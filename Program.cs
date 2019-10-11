@@ -30,7 +30,7 @@ namespace RandomGame
                     else if (guess > x)
                     {
 
-                        Console.WriteLine("Nope, its lower");
+                        Console.WriteLine("Nope, the number is lower");
                         
                     }
                 } 
